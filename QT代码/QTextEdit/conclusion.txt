@@ -1,0 +1,2 @@
+QtextEdit class provides a widget which is used to edit and display plain and rich text
+

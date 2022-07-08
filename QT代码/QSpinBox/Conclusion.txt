@@ -1,0 +1,5 @@
+QSpinBox-handle integers and discrete sets of values
+
+QDoubleSpinBox-floating point values
+
+## 剩余阐述其中较为重要的几个函数即可

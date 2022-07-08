@@ -1,0 +1,14 @@
+Date:2022.4.20
+Reference:https://doc.qt.io/qtforpython-5/PySide2/QtWidgets/QInputDialog.html
+
+
+针对于QInputDialog组件，主要刻画两方面的内容：
+    1. getText
+    2. getItem
+    3. getInt
+    4. getDouble
+    5. getMultiLineText
+
+另外一个方向，阐述函数的两个返回值
+    1. content:用户输入或者返回的内容
+    2. ok:flag用于表征用户是否真实进行选择

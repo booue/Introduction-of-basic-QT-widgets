@@ -1,0 +1,4 @@
+QSlider总结：
+
+    1. Horization水平和Vertical垂直
+    2. setMinimun和setMaximum设置Slider的范围

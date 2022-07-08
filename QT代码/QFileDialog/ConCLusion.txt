@@ -1,0 +1,9 @@
+Date:2022.4.20
+Reference:https://doc.qt.io/qtforpython-5/PySide2/QtWidgets/QFileDialog.html
+
+
+QFileDialog的两种调用方法:
+    1. 借助于静态函数static function
+    2. 自己构造
+
+最终,文档撰写时,主要围绕上述两点进行分析展开即可

@@ -1,0 +1,5 @@
+QMessageBox总结：
+    此处的QMessageBox主要具有两种方法：
+    1. 借助于函数定义的方法实现
+    2. 借助于静态方法实现
+        information,critical,warning.....

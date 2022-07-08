@@ -1,0 +1,7 @@
+The QPushbutton provides a command button
+perhaps the most commonly used widget in user's interface
+文档主要阐释几个方向：
+1. QPushButton的基本用法
+2. setText和setAutoDefault
+3. QShortCut快捷键创建---->借助于最简单添加&的方式创建快捷键
+
